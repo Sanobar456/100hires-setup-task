@@ -39,3 +39,7 @@ Explored the interface, opened the editor window, and accessed the Extensions ma
 ## What I Learned
 
 This task helped me become familiar with Cursor, GitHub repositories, extension management, and basic troubleshooting. I also learned how to independently resolve setup issues by exploring documentation, software interfaces, and available resources.
+
+## Research Process
+
+When I encountered issues during setup, I used a combination of documentation, software interfaces, and online resources to troubleshoot and find solutions independently.
