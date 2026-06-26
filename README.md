@@ -43,3 +43,13 @@ This task helped me become familiar with Cursor, GitHub repositories, extension 
 ## Research Process
 
 When I encountered issues during setup, I used a combination of documentation, software interfaces, and online resources to troubleshoot and find solutions independently.
+
+## Research Project
+
+### Topic
+
+AI-powered SEO content production
+
+### Goal
+
+Build a curated research repository from experienced practitioners covering AI-assisted SEO workflows, content production systems, search strategy, and scalable content operations. The goal is to synthesize high-quality sources that can later support the creation of a practical playbook for B2B SaaS marketing.
