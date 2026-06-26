@@ -53,3 +53,10 @@ AI-powered SEO content production
 ### Goal
 
 Build a curated research repository from experienced practitioners covering AI-assisted SEO workflows, content production systems, search strategy, and scalable content operations. The goal is to synthesize high-quality sources that can later support the creation of a practical playbook for B2B SaaS marketing.
+
+## Current Progress
+
+* Repository structure created
+* Topic selected: AI-Powered SEO Content Production for B2B SaaS
+* Research has started with Kevin Indig
+* Collecting LinkedIn posts, articles, YouTube transcripts, and other educational resources from experienced practitioners
