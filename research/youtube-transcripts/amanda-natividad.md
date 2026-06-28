@@ -1,4 +1,4 @@
-# Amanda Natividad — Podcast & Video Transcripts
+# Amanda Natividad
 
 **Podcast:** Zero Click Marketing
 
@@ -14,47 +14,53 @@
 
 ### Summary
 
-In this episode, Amanda explains what Zero-Click Marketing really means and clears up some common misconceptions. She emphasizes that the goal is not to stop people from visiting your website, but to provide enough value directly on social platforms that people begin to trust and remember your brand.
+Amanda explains what Zero-Click Marketing really means and clears up several common misconceptions. She says the goal is not to ignore your website or stop driving traffic. Instead, marketers should focus on creating valuable content directly on the platforms where their audience already spends time.
 
-Some of her key ideas include:
+Some of her main ideas include:
 
 * Your website is still important because it is where conversions happen.
-* Publishing more content alone is not enough; the content needs to be genuinely useful.
-* Success should be measured by awareness, trust, and long-term influence rather than only clicks.
-* The goal is to become the brand people already know before they enter the buying process.
+* Publishing more content is not enough if it doesn't provide value.
+* Most B2B buyers are not ready to purchase today, so content should build trust before they enter the buying process.
+* AI assistants are becoming another zero-click environment because users often receive answers without visiting a website.
 
 ### Why it matters
 
-This episode explains the foundation of Zero-Click Marketing and why it has become more relevant as AI search reduces website traffic.
+This episode explains why marketers should think beyond clicks and focus on building long-term brand awareness. It also shows how AI search is changing the customer journey.
 
 ---
 
-## Episode 2 — Your Audience, Your Edge
-
-**Source:** The Search Session Interview
-
-### Summary
-
-Amanda discusses how marketers should spend more time understanding their audience instead of focusing only on search rankings. She explains that knowing where potential customers spend time online helps businesses create content that reaches people before they actively search for solutions.
-
-She also highlights that AI search is changing discovery, making audience research even more valuable for long-term marketing success.
-
-### Why it matters
-
-The interview reinforces that strong audience research leads to better content, stronger brand recognition, and greater visibility across search engines, AI assistants, newsletters, podcasts, and social platforms.
-
----
-
-## Episode 3 — Building Trust Before the Click
+## Episode 2 — Search Is Becoming an Evidence Game
 
 **Source:** Zero Click Marketing Podcast
 
 ### Summary
 
-Amanda explains that the best marketing often happens before someone visits a website. Helpful posts, educational videos, podcasts, newsletters, and community discussions all contribute to building trust over time.
+Amanda discusses how AI search relies on publicly available information to understand brands. She explains that companies need to publish accurate, helpful, and trustworthy content because AI systems use that information when generating answers.
 
-Instead of treating every piece of content as a direct sales opportunity, she recommends consistently sharing useful information that positions the brand as a trusted resource.
+Some key points include:
+
+* Community platforms like Reddit are becoming more important in buyer research.
+* Brands should publish clear and reliable information instead of assuming AI will understand them correctly.
+* Website traffic is still valuable, but it should not be the only success metric.
 
 ### Why it matters
 
-This episode shows why content marketing should focus on educating and helping people first. As AI increasingly answers questions directly, brands that consistently provide valuable content are more likely to remain visible and memorable.
+This episode highlights the importance of creating trustworthy content that AI systems can understand and reference. It reinforces the idea that visibility depends on the quality of your public content.
+
+---
+
+## Video — Your Audience, Your Edge
+
+**Source:** https://www.advancedwebranking.com/blog/brand-building-and-zero-click-marketing
+
+### Summary
+
+In this interview, Amanda explains how marketers can build stronger brand awareness by creating content that works naturally on each platform. Rather than pushing users to click links immediately, she recommends sharing useful information directly within posts to increase reach and engagement.
+
+She also discusses how audience research tools like SparkToro help marketers discover where their target audience spends time online, making it easier to choose the right channels for content distribution.
+
+Another important point is that branded searches are becoming a stronger indicator of success because people who already know your brand are more likely to search for it directly.
+
+### Why it matters
+
+This interview connects audience research, content distribution, and AI search into one strategy. It shows that successful content marketing is becoming more focused on building recognition and trust than simply generating website clicks.
