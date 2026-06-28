@@ -78,3 +78,19 @@ Build a curated research repository from experienced practitioners covering AI-a
   * Supporting articles and additional learning resources
 * Added all four experts to `research/sources.md` with brief annotations explaining why they were selected.
 * Research is ongoing, with six more experts to be added before building the final AI SEO research playbook.
+
+## Current Progress
+
+* Completed research for 4 more industry experts:
+  * Mike King
+  * Rand Fishkin
+  * Amanda Natividad
+  * Wil Reynolds 
+* Collected and organized:
+  * LinkedIn posts
+  * Conference talks & YouTube transcripts
+  * Articles, newsletters, and frameworks
+  * Supporting resources and background information
+
+* Research repository is continuously being expanded with additional experts and practical implementation insights.
+  
