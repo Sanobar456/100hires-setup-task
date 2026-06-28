@@ -28,18 +28,23 @@ His biggest recommendation for B2B companies today is to launch a LinkedIn Newsl
 
 ## Webinar — All of My Best AI Methods
 
-**Source:** Orbit Media Webinar Series
-
-**Theme:** Andy's practical workflow for using AI throughout the content creation process.
+**Source:** Orbit Media Webinar (with Matt Heinz)
+**Published:** March 2026
 
 ### Key Insights
 
-Andy recommends using AI as a research assistant rather than a replacement for writers. One of his favorite uses is brainstorming original research ideas by asking AI to identify common industry claims that lack supporting data. Those gaps can become valuable research projects.
+Andy demonstrated how he uses AI throughout the content creation process without allowing it to replace human expertise.
 
-He also uses AI to review existing articles, identify missing sections, improve readability, generate metadata, and suggest stronger headlines. These tasks help improve efficiency without sacrificing originality.
+He recommends using AI to discover original research opportunities by identifying commonly repeated claims that lack supporting evidence. Producing original data around these topics creates valuable resources that journalists, bloggers, and AI systems are more likely to reference.
 
-Instead of asking AI to produce finished articles, Andy treats it as a collaborator that speeds up repetitive work while leaving strategic decisions and final writing to humans.
+His AI-assisted workflow follows five stages:
 
-Throughout the webinar, he reinforces the idea that AI should enhance human expertise rather than replace it. The strongest content still comes from original experience, unique perspectives, and thoughtful editing.
+* Research new opportunities and content gaps.
+* Build a structured outline.
+* Write the article with humans contributing the main ideas and insights while AI assists with supporting sections.
+* Collect genuine expert quotes from industry professionals.
+* Use AI during editing for clarity, readability, and SEO improvements before final human review.
 
-One takeaway that aligns with his overall philosophy is that AI increases productivity, but it cannot replace genuine expertise or meaningful insights. Human knowledge remains the factor that makes content memorable and trustworthy.
+Andy also explained where AI falls short. It cannot develop genuine opinions, build relationships with industry experts, conduct original research, or create the trust required for thought leadership. Those remain uniquely human strengths.
+
+Another practical recommendation is to ensure important statistics are written in plain text rather than only displayed inside charts or images. Search engines and AI systems understand text far more reliably, making written summaries of charts valuable for both SEO and AI visibility.
