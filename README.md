@@ -60,3 +60,21 @@ Build a curated research repository from experienced practitioners covering AI-a
 * Topic selected: AI-Powered SEO Content Production for B2B SaaS
 * Research has started with Kevin Indig
 * Collecting LinkedIn posts, articles, YouTube transcripts, and other educational resources from experienced practitioners
+
+## Current Progress
+
+* Repository structure created.
+* Topic selected: **AI-Powered SEO Content Production for B2B SaaS**.
+* Completed research for four experts:
+
+  * Kevin Indig
+  * Aleyda Solís
+  * Lily Ray
+  * Ross Simmonds
+* Collected and organized:
+
+  * LinkedIn posts
+  * Podcast / YouTube research
+  * Supporting articles and additional learning resources
+* Added all four experts to `research/sources.md` with brief annotations explaining why they were selected.
+* Research is ongoing, with six more experts to be added before building the final AI SEO research playbook.
